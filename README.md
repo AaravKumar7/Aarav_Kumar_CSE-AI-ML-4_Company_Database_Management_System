@@ -4,6 +4,9 @@ I built a full-stack web app using Django with JWT authentication for secure log
 
 A simple full-stack web app using Django REST Framework with JWT authentication and frontend integration.
 
+## Video explanation
+Company_database_management_system_GpNo16_B.mp4
+
 ## Features
 - User registration & login
 - JWT-based authentication
