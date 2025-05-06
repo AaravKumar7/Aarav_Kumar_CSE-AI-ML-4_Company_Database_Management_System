@@ -21,9 +21,3 @@ Company_database_management_system_GpNo16_B.mp4
 4. Run migrations: `python manage.py migrate`  
 5. Create superuser (optional): `python manage.py createsuperuser`  
 6. Start server: `python manage.py runserver`
-
-## Frontend
-```bash
-cd frontend
-npm install
-npm start
